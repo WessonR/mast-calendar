@@ -1,13 +1,13 @@
 name: Update MAST Calendar
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 */6 * * *'
 
   workflow_dispatch:
-
-permissions:
-  contencts: write
 
 jobs:
   update-calendar:
