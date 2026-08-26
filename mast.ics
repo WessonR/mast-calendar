@@ -30,11 +30,11 @@ SUMMARY:Governor Kehoe orders flags to half-staff in honor of Shift Commander Ja
 UID:b7494cd082e619931cc393cfeb6534c5b9bd63fdfebadd36750b2bfcc0db6e6c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Authority: US President\nReason: President Donald Trump ordered American flags throughout the United States lowered to half-staff for one week beginning at 6:00 p.m. on August 25\, 2026\, in honor of country music icon and philanthropist Dolly Parton.\nSource: https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/
-DTEND:20260901T234000Z
-DTSTART:20260825T220000Z
-SUMMARY:President Trump orders flags to half-staff in honor of Dolly Parton
-UID:1417927e84e97425d80d4269949835b8f42d76566cc75ac77aeec686f20244b1
+DESCRIPTION:Authority: 4 U.S.C. 6(d) and 4 U.S.C. 7(m)\nReason: The U.S. Flag Code provides that the flag is displayed at half-staff until noon on Memorial Day\, then raised to full-staff for the remainder of the day. The morning lowering honors those who died while serving in the U.S. Armed Forces\, while the noon raising symbolizes the nation carrying their legacy forward.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title4-section6&num=0&edition=prelim
+DTEND:20270531T160000Z
+DTSTART:20270531T094637Z
+SUMMARY:Memorial Day
+UID:7765c6596e5edf86ee0cc0eb289c28533f4d1fd4f798b1b25f58b25cf104cc0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Authority: Missouri Governor\nReason: May 14\, 2026 You can access the proclamation here . State government departments are responsible for distributing this information throughout your department for compliance with this order. Sincerely\, OA-FMDC Governor Kehoe Proclaims May 11-17\, 2026\, to be Peace Officers Memorial Week WHEREAS \, Missouri's peace officers bravely and altruistically work toward securing the safety and welfare of their fellow citizens\; and WHEREAS \, the 15th of May is designated as Missouri's Peace Officers Memorial\nSource: https://oa.mo.gov/facilities/facilities-operations/flag-display/flag-notifications
@@ -51,20 +51,6 @@ SUMMARY:President Trump orders flags to half-staff in honor of Senator Lindsey G
 UID:8842f3fab76883193feaecee23509560f996c1898d75526a55e76965ea30a66e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Authority: Missouri Governor\nReason: President Trump ordered all U.S. flags to half-staff to honor Dolly Parton. The order applies from August 25\, 2026 through sunset on September 1\, 2026.\nSource: https://flagsexpress.com/blog/flags-half-staff/united-states/august-25-2026/Dolly-Parton/
-DTEND:20260902T004107Z
-DTSTART:20260826T010000Z
-SUMMARY:President Trump orders flags to half-staff for Dolly Parton
-UID:48d8d758587e0673aff43d67f2d69fdbe4e6a9464844f85831254e374f981b25
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: 4 U.S.C. 6(d) and 4 U.S.C. 7(m)\nReason: The U.S. Flag Code provides that the flag is displayed at half-staff until noon on Memorial Day\, then raised to full-staff for the remainder of the day. The morning lowering honors those who died while serving in the U.S. Armed Forces\, while the noon raising symbolizes the nation carrying their legacy forward.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title4-section6&num=0&edition=prelim
-DTEND:20270531T160000Z
-DTSTART:20270531T094637Z
-SUMMARY:Memorial Day
-UID:7765c6596e5edf86ee0cc0eb289c28533f4d1fd4f798b1b25f58b25cf104cc0d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Authority: Public Law 107-51\nReason: Public Law 107-51 provides for the U.S. flag to be lowered to half-staff from sunrise to sunset for the National Fallen Firefighters Memorial Service. This observance honors firefighters who died in service to their communities and invites the country to pause in gratitude for their sacrifice.\nSource: https://www.congress.gov/107/plaws/publ51/PLAW-107publ51.pdf
 DTEND:20270503T000153Z
 DTSTART:20270502T101038Z
@@ -77,6 +63,13 @@ DTEND:20260516T001432Z
 DTSTART:20260515T095659Z
 SUMMARY:Peace Officers Memorial Day
 UID:ef19ed17978fb1f5a9b08cfdecb799c4dcaf3608eb09c91d137137ef5df4e3f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: Missouri Governor\nReason: President Trump ordered all U.S. flags to half-staff to honor Dolly Parton. The order applies from August 25\, 2026 through sunset on September 1\, 2026.\nSource: https://oa.mo.gov/facilities/facilities-operations/flag-display/flag-notifications
+DTEND:20260902T004100Z
+DTSTART:20260826T010000Z
+SUMMARY:President Trump orders flags to half-staff for Dolly Parton
+UID:62be6a7e334d115c9840c27d3fe2ad9f87d0b0c05eaca6902b8112ab92bb6718
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Authority: Missouri Governor\nReason: President Donald J. Trump has ordered the flag to be flown at half-staff in honor of all fallen service members.\nSource: https://oa.mo.gov/facilities/facilities-operations/flag-display/flag-notifications
@@ -119,6 +112,13 @@ DTEND:20260525T160000Z
 DTSTART:20260525T094936Z
 SUMMARY:Memorial Day
 UID:40e28239ee628c5905d96f2ff747a4b8bbb5d926036420eac9f5376402016697
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: US President\nReason: President Donald Trump ordered American flags throughout the United States lowered to half-staff for one week beginning at 6:00 p.m. on August 25\, 2026\, in honor of country music icon and philanthropist Dolly Parton.\nSource: https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/
+DTEND:20260901T234000Z
+DTSTART:20260825T220000Z
+SUMMARY:Honoring the Memory of Dolly Parton
+UID:2132655337016966d4a96a0c1944d67df84e4d8f01dfab74db906a455be47170
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Authority: Missouri Governor\nReason: In honor of St. Louis Metropolitan Police Department Officer Gregory T. Triplett\, Governor Mike Kehoe ordered flags to be flown at half-staff on April 13\, 2026\, from sunrise to sunset.\nSource: https://governor.mo.gov/press-releases/archive/governor-kehoe-orders-flags-fly-half-staff-honor-st-louis-metropolitan
