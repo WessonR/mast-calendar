@@ -16,18 +16,53 @@ SUMMARY:President Donald J. Trump has ordered the flag of the United States shal
 UID:1d01ffe65d23a535cddae431f535f02a3eb6339bbb8a129f6831d5f512298c1b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Authority: Missouri Governor\nReason: Governor Mike Kehoe ordered flags to be flown at half-staff on February 28\, 2026\, to honor Deputy Sheriffs Gabriel Ramirez and Michael Hislope\, who lost their lives in the line of duty.\nSource: https://governor.mo.gov/press-releases/archive/governor-kehoe-orders-flags-fly-half-staff-honor-christian-county-deputy
-DTEND:20260301T000132Z
-DTSTART:20260228T124353Z
-SUMMARY:Governor Kehoe orders flags to half-staff in honor of Deputy Sheriffs Ramirez and Hislope
-UID:af290cd288fc65a64df82003c7b0a3c0017aac070f98d8581088b1e62b9c788c
+DESCRIPTION:Authority: US President\nReason: President Donald Trump ordered all American flags throughout the United States lowered to half-staff in honor of the life and achievements of Senator Lindsey Graham. Flags are to remain lowered until 6 p.m. on Saturday\, July 18\, 2026.\nSource: https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/
+DTEND:20260719T010000Z
+DTSTART:20260713T003000Z
+SUMMARY:President Trump orders flags to half-staff in honor of Senator Lindsey Graham
+UID:8842f3fab76883193feaecee23509560f996c1898d75526a55e76965ea30a66e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Authority: 4 U.S.C. 7(m) and 36 U.S.C. 136\nReason: Federal law provides for the U.S. flag to be displayed at half-staff from sunrise to sunset on Peace Officers Memorial Day\, unless it falls on Armed Forces Day. The observance honors law enforcement officers who lost their lives in the line of duty and recognizes the service and sacrifice of peace officers across the country.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section136&num=0&edition=prelim
+DESCRIPTION:Authority: Missouri Governor\nReason: Flags will fly at half-staff in Missouri on September 11\, 2026\, in honor of the individuals who lost their lives in the terrorist attacks of September 11\, 2001. The order applies from sunrise to sunset at all government and public buildings.\nSource: https://www.congress.gov/107/plaws/publ89/PLAW-107publ89.pdf
+DTEND:20260912T002533Z
+DTSTART:20260910T114710Z
+SUMMARY:Governor Mike Parson orders flags to half-staff for Patriot Day
+UID:ac205eff580ed5f0917dc9652dd4741cbd2d35ef9f5ef330f58ecdc608299d3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: 4 U.S.C. 6(d) and 4 U.S.C. 7(m)\nReason: The U.S. Flag Code provides that the flag is displayed at half-staff until noon on Memorial Day\, then raised to full-staff for the remainder of the day. The morning lowering honors those who died while serving in the U.S. Armed Forces\, while the noon raising symbolizes the nation carrying their legacy forward.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title4-section6&num=0&edition=prelim
+DTEND:20260525T170000Z
+DTSTART:20260525T105104Z
+SUMMARY:Memorial Day
+UID:82d1ee8a9bd58630cecf0fa1cbf079159403e8ef39bfde321e654119cb3c57c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: 36 U.S.C. 129\nReason: Federal law requests that the U.S. flag be displayed at half-staff from sunrise to sunset on National Pearl Harbor Remembrance Day. The observance honors the service members and civilians who died in the December 7\, 1941 attack and remembers the sacrifice that drew the nation into World War II.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section129&num=0&edition=prelim
+DTEND:20271207T224852Z
+DTSTART:20271207T131409Z
+SUMMARY:National Pearl Harbor Remembrance Day
+UID:9278bbd467a498bd2982099c7eb9a4f97a61ceb91fb5cb700c882c57b1e4d7eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: Missouri Governor\nReason: May 14\, 2026 You can access the proclamation here . State government departments are responsible for distributing this information throughout your department for compliance with this order. Sincerely\, OA-FMDC Governor Kehoe Proclaims May 11-17\, 2026\, to be Peace Officers Memorial Week WHEREAS \, Missouri's peace officers bravely and altruistically work toward securing the safety and welfare of their fellow citizens\; and WHEREAS \, the 15th of May is designated as Missouri's Peace Officers Memorial\nSource: https://oa.mo.gov/facilities/facilities-operations/flag-display/flag-notifications
 DTEND:20260516T011429Z
 DTSTART:20260515T105822Z
-SUMMARY:Peace Officers Memorial Day
-UID:60263a0430f60a8ee190848f229d5e4639058081fd0525fa282660251d76a0da
+SUMMARY:Governor Mike Kehoe has ordered that the flag of the United States and the flag of Missouri be flown at half-staff over the State Capitol and at all government offices throughout Missouri on Friday\, May 15\, 2026\, from sunrise to sunset\, in honor of Peace Officers Memorial Day.
+UID:4835019c9f12c2e8ba724c23db5b6f96bda7e6ac554a2e7fdec81b2f6709e594
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: 4 U.S.C. 6(d) and 4 U.S.C. 7(m)\nReason: The U.S. Flag Code provides that the flag is displayed at half-staff until noon on Memorial Day\, then raised to full-staff for the remainder of the day. The morning lowering honors those who died while serving in the U.S. Armed Forces\, while the noon raising symbolizes the nation carrying their legacy forward.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title4-section6&num=0&edition=prelim
+DTEND:20270531T170000Z
+DTSTART:20270531T104809Z
+SUMMARY:Memorial Day
+UID:db1fa9cee7b866b237d9acaad3b9d5c5a7a613ee7ea334b63d1c103f00af9573
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: Public Law 107-51\nReason: Public Law 107-51 provides for the U.S. flag to be lowered to half-staff from sunrise to sunset for the National Fallen Firefighters Memorial Service. This observance honors firefighters who died in service to their communities and invites the country to pause in gratitude for their sacrifice.\nSource: https://www.congress.gov/107/plaws/publ51/PLAW-107publ51.pdf
+DTEND:20260504T010311Z
+DTSTART:20260503T111024Z
+SUMMARY:National Fallen Firefighters Memorial Service
+UID:d6710fbef609b3fa4a894bb0a36644f8d574c3dd0df1226b931796055ae8ec04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Authority: Missouri Governor\nReason: President Trump ordered all U.S. flags to half-staff to honor Dolly Parton. The order applies from August 25\, 2026 through sunset on September 1\, 2026.\nSource: https://oa.mo.gov/facilities/facilities-operations/flag-display/flag-notifications
@@ -37,11 +72,46 @@ SUMMARY:President Trump orders flags to half-staff for Dolly Parton
 UID:48d8d758587e0673aff43d67f2d69fdbe4e6a9464844f85831254e374f981b25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Authority: US President\nReason: President Donald Trump ordered all American flags throughout the United States lowered to half-staff in honor of the life and achievements of Senator Lindsey Graham. Flags are to remain lowered until 6 p.m. on Saturday\, July 18\, 2026.\nSource: https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/
-DTEND:20260719T010000Z
-DTSTART:20260713T003000Z
-SUMMARY:President Trump orders flags to half-staff in honor of Senator Lindsey Graham
-UID:8842f3fab76883193feaecee23509560f996c1898d75526a55e76965ea30a66e
+DESCRIPTION:Authority: 4 U.S.C. 7(m) and 36 U.S.C. 136\nReason: Federal law provides for the U.S. flag to be displayed at half-staff from sunrise to sunset on Peace Officers Memorial Day\, unless it falls on Armed Forces Day. The observance honors law enforcement officers who lost their lives in the line of duty and recognizes the service and sacrifice of peace officers across the country.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section136&num=0&edition=prelim
+DTEND:20260516T011429Z
+DTSTART:20260515T105822Z
+SUMMARY:Peace Officers Memorial Day
+UID:60263a0430f60a8ee190848f229d5e4639058081fd0525fa282660251d76a0da
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: Missouri Governor\nReason: Flags will fly at half-staff in Missouri on September 11\, 2026\, in honor of the individuals who lost their lives in the terrorist attacks of September 11\, 2001. The order applies from sunrise to sunset at all government and public buildings.\nSource: https://www.congress.gov/107/plaws/publ89/PLAW-107publ89.pdf
+DTEND:20260912T002533Z
+DTSTART:20260911T114802Z
+SUMMARY:Governor Mike Parson orders flags to half-staff for Patriot Day
+UID:d572aebb86bc67f00a567d0c4b06e666bd38ec6fa1b5625618321f49d5db770d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: Missouri Governor\nReason: In honor of St. Louis Metropolitan Police Department Officer Gregory T. Triplett\, Governor Mike Kehoe ordered flags to be flown at half-staff on April 13\, 2026\, from sunrise to sunset.\nSource: https://governor.mo.gov/press-releases/archive/governor-kehoe-orders-flags-fly-half-staff-honor-st-louis-metropolitan
+DTEND:20260414T004357Z
+DTSTART:20260413T113637Z
+SUMMARY:Governor Kehoe orders flags to half-staff in honor of Officer Gregory T. Triplett
+UID:149983fe83d750159de6a1807eb6585fcfbfda6160f63f14afe0bcb2f724bbed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: 36 U.S.C. 144\nReason: Federal law requests that the U.S. flag be displayed at half-staff from sunrise to sunset on Patriot Day. The observance honors those killed in the September 11 attacks\, recognizes the bravery of responders\, and marks a national day of remembrance and resolve.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section144&num=0&edition=prelim
+DTEND:20270912T002558Z
+DTSTART:20270911T114749Z
+SUMMARY:Patriot Day
+UID:47b927ad40bd163e1e1bd476d5fe0b177ff17ff8f1451544062c52ff070de858
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: 36 U.S.C. 129\nReason: Federal law requests that the U.S. flag be displayed at half-staff from sunrise to sunset on National Pearl Harbor Remembrance Day. The observance honors the service members and civilians who died in the December 7\, 1941 attack and remembers the sacrifice that drew the nation into World War II.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section129&num=0&edition=prelim
+DTEND:20261207T224851Z
+DTSTART:20261207T131423Z
+SUMMARY:National Pearl Harbor Remembrance Day
+UID:ca553b42b928cee6e144e93ae560f766a4e623d216e6d61b63e85f56e2fc3635
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Authority: Missouri Governor\nReason: Governor Mike Kehoe ordered flags to be flown at half-staff on February 28\, 2026\, to honor Deputy Sheriffs Gabriel Ramirez and Michael Hislope\, who lost their lives in the line of duty.\nSource: https://governor.mo.gov/press-releases/archive/governor-kehoe-orders-flags-fly-half-staff-honor-christian-county-deputy
+DTEND:20260301T000132Z
+DTSTART:20260228T124353Z
+SUMMARY:Governor Kehoe orders flags to half-staff in honor of Deputy Sheriffs Ramirez and Hislope
+UID:af290cd288fc65a64df82003c7b0a3c0017aac070f98d8581088b1e62b9c788c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Authority: Public Law 107-51\nReason: Public Law 107-51 provides for the U.S. flag to be lowered to half-staff from sunrise to sunset for the National Fallen Firefighters Memorial Service. This observance honors firefighters who died in service to their communities and invites the country to pause in gratitude for their sacrifice.\nSource: https://www.congress.gov/107/plaws/publ51/PLAW-107publ51.pdf
@@ -63,62 +133,6 @@ DTEND:20260313T001338Z
 DTSTART:20260312T122602Z
 SUMMARY:Governor Kehoe orders flags to half-staff in honor of Shift Commander Jackson Warren
 UID:b100eeff87111860d42fbadb3434f6ab0a5a47d7ee38d3d437907e8294912e30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: 4 U.S.C. 6(d) and 4 U.S.C. 7(m)\nReason: The U.S. Flag Code provides that the flag is displayed at half-staff until noon on Memorial Day\, then raised to full-staff for the remainder of the day. The morning lowering honors those who died while serving in the U.S. Armed Forces\, while the noon raising symbolizes the nation carrying their legacy forward.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title4-section6&num=0&edition=prelim
-DTEND:20260525T170000Z
-DTSTART:20260525T105104Z
-SUMMARY:Memorial Day
-UID:82d1ee8a9bd58630cecf0fa1cbf079159403e8ef39bfde321e654119cb3c57c8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: Missouri Governor\nReason: In honor of St. Louis Metropolitan Police Department Officer Gregory T. Triplett\, Governor Mike Kehoe ordered flags to be flown at half-staff on April 13\, 2026\, from sunrise to sunset.\nSource: https://governor.mo.gov/press-releases/archive/governor-kehoe-orders-flags-fly-half-staff-honor-st-louis-metropolitan
-DTEND:20260414T004357Z
-DTSTART:20260413T113637Z
-SUMMARY:Governor Kehoe orders flags to half-staff in honor of Officer Gregory T. Triplett
-UID:149983fe83d750159de6a1807eb6585fcfbfda6160f63f14afe0bcb2f724bbed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: 36 U.S.C. 144\nReason: Federal law requests that the U.S. flag be displayed at half-staff from sunrise to sunset on Patriot Day. The observance honors those killed in the September 11 attacks\, recognizes the bravery of responders\, and marks a national day of remembrance and resolve.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section144&num=0&edition=prelim
-DTEND:20270912T002558Z
-DTSTART:20270911T114749Z
-SUMMARY:Patriot Day
-UID:47b927ad40bd163e1e1bd476d5fe0b177ff17ff8f1451544062c52ff070de858
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: Missouri Governor\nReason: May 14\, 2026 You can access the proclamation here . State government departments are responsible for distributing this information throughout your department for compliance with this order. Sincerely\, OA-FMDC Governor Kehoe Proclaims May 11-17\, 2026\, to be Peace Officers Memorial Week WHEREAS \, Missouri's peace officers bravely and altruistically work toward securing the safety and welfare of their fellow citizens\; and WHEREAS \, the 15th of May is designated as Missouri's Peace Officers Memorial\nSource: https://oa.mo.gov/facilities/facilities-operations/flag-display/flag-notifications
-DTEND:20260516T011429Z
-DTSTART:20260515T105822Z
-SUMMARY:Governor Mike Kehoe has ordered that the flag of the United States and the flag of Missouri be flown at half-staff over the State Capitol and at all government offices throughout Missouri on Friday\, May 15\, 2026\, from sunrise to sunset\, in honor of Peace Officers Memorial Day.
-UID:4835019c9f12c2e8ba724c23db5b6f96bda7e6ac554a2e7fdec81b2f6709e594
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: 4 U.S.C. 6(d) and 4 U.S.C. 7(m)\nReason: The U.S. Flag Code provides that the flag is displayed at half-staff until noon on Memorial Day\, then raised to full-staff for the remainder of the day. The morning lowering honors those who died while serving in the U.S. Armed Forces\, while the noon raising symbolizes the nation carrying their legacy forward.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title4-section6&num=0&edition=prelim
-DTEND:20270531T170000Z
-DTSTART:20270531T104809Z
-SUMMARY:Memorial Day
-UID:db1fa9cee7b866b237d9acaad3b9d5c5a7a613ee7ea334b63d1c103f00af9573
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: 36 U.S.C. 129\nReason: Federal law requests that the U.S. flag be displayed at half-staff from sunrise to sunset on National Pearl Harbor Remembrance Day. The observance honors the service members and civilians who died in the December 7\, 1941 attack and remembers the sacrifice that drew the nation into World War II.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section129&num=0&edition=prelim
-DTEND:20261207T224851Z
-DTSTART:20261207T131423Z
-SUMMARY:National Pearl Harbor Remembrance Day
-UID:ca553b42b928cee6e144e93ae560f766a4e623d216e6d61b63e85f56e2fc3635
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: 36 U.S.C. 129\nReason: Federal law requests that the U.S. flag be displayed at half-staff from sunrise to sunset on National Pearl Harbor Remembrance Day. The observance honors the service members and civilians who died in the December 7\, 1941 attack and remembers the sacrifice that drew the nation into World War II.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section129&num=0&edition=prelim
-DTEND:20271207T224852Z
-DTSTART:20271207T131409Z
-SUMMARY:National Pearl Harbor Remembrance Day
-UID:9278bbd467a498bd2982099c7eb9a4f97a61ceb91fb5cb700c882c57b1e4d7eb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Authority: Public Law 107-51\nReason: Public Law 107-51 provides for the U.S. flag to be lowered to half-staff from sunrise to sunset for the National Fallen Firefighters Memorial Service. This observance honors firefighters who died in service to their communities and invites the country to pause in gratitude for their sacrifice.\nSource: https://www.congress.gov/107/plaws/publ51/PLAW-107publ51.pdf
-DTEND:20260504T010311Z
-DTSTART:20260503T111024Z
-SUMMARY:National Fallen Firefighters Memorial Service
-UID:d6710fbef609b3fa4a894bb0a36644f8d574c3dd0df1226b931796055ae8ec04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Authority: US President\nReason: President Donald Trump ordered American flags throughout the United States lowered to half-staff for one week beginning at 6:00 p.m. on August 25\, 2026\, in honor of country music icon and philanthropist Dolly Parton.\nSource: https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/
