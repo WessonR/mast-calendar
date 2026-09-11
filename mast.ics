@@ -23,13 +23,6 @@ SUMMARY:President Trump orders flags to half-staff in honor of Senator Lindsey G
 UID:8842f3fab76883193feaecee23509560f996c1898d75526a55e76965ea30a66e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Authority: Missouri Governor\nReason: Flags will fly at half-staff in Missouri on September 11\, 2026\, in honor of the individuals who lost their lives in the terrorist attacks of September 11\, 2001. The order applies from sunrise to sunset at all government and public buildings.\nSource: https://www.congress.gov/107/plaws/publ89/PLAW-107publ89.pdf
-DTEND:20260912T002533Z
-DTSTART:20260910T114710Z
-SUMMARY:Governor Mike Parson orders flags to half-staff for Patriot Day
-UID:ac205eff580ed5f0917dc9652dd4741cbd2d35ef9f5ef330f58ecdc608299d3c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Authority: 4 U.S.C. 6(d) and 4 U.S.C. 7(m)\nReason: The U.S. Flag Code provides that the flag is displayed at half-staff until noon on Memorial Day\, then raised to full-staff for the remainder of the day. The morning lowering honors those who died while serving in the U.S. Armed Forces\, while the noon raising symbolizes the nation carrying their legacy forward.\nSource: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title4-section6&num=0&edition=prelim
 DTEND:20260525T170000Z
 DTSTART:20260525T105104Z
